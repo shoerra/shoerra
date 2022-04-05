@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shoerra
-- 👀 I’m interested in leaning to code. 
-- 🌱 I’m currently learning throught pseint's pseudolanguage at the University and I'm starting to learn HTML|CSS|JavaScript.
-- 💞️ I’m looking to collaborate on any challenging project. I do not have a wide knowledge but I'm bulding it. I love having new challenges.
-- 📫 You can reach me at telegram as @Shoerra
+- 👋 Hi, I’m Sharol Herrera or @shoerra
+- 👀 I’m interested in learning to code. 
+- 🌱 I’m currently learning through pseint's pseudolanguage at the university. I'm starting to learn HTML|CSS|JavaScript|Programming logic.
+- 💞️ I’m looking to collaborate on any challenging project. I do not have a wide knowledge but I'm building it. I love having new challenges.
+- 📫 You can reach me by telegram as @Shoerra
+- Attached there are some projects that I've worked on.
 
 <!---
 shoerra/shoerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
