@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Sharol Herrera or @shoerra
-- 👀 I’m interested in learning to code. 
-- 🌱 I’m currently learning through pseint's pseudolanguage at the university. I'm starting to learn HTML | CSS | JavaScript | Programming logic 
-- 💞️ I’m looking to collaborate on any challenging project. I do not have a wide knowledge but I'm building it. I love having new challenges.
-- 📫 You can reach me by telegram as @Shoerra
-- Attached there are some projects that I've worked on.
+- Connecting the best talent with the best job opportunities. Now hiring🚨
+
+Do you want to know if there is a spot for you ⬇️?:
+ • Machine Learning Engineers
+ • Front-End with Back-End experience and vice versa 
+ • Data engineers with interest in the blockchain
+
+Currently working with fully remote companies, focused on creating value and profits to pay above the average for top talents.
+
+- 🌱 I’m currently learning C++ at the university. I'm starting to learn HTML & CSS.
+
 
 <!---
 shoerra/shoerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
