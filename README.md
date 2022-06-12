@@ -1,9 +1,9 @@
 - Connecting the best talent with the best job opportunities. Now hiring🚨
 
 Do you want to know if there is a spot for you ⬇️?:
- • Machine Learning Engineers
- • Front-End with Back-End experience and vice versa 
- • Data engineers with interest in the blockchain
+ - • Machine Learning Engineers
+ - • Front-End with Back-End experience and vice versa 
+ - • Data engineers with interest in the blockchain
 
 Currently working with fully remote companies, focused on creating value and profits to pay above the average for top talents.
 
